@@ -1,0 +1,1 @@
+The code performs classification on the Iris dataset using Logistic Regression, achieving perfect accuracy of 1.00. It visualizes petal and sepal lengths, trains the model, and evaluates it with a detailed classification report.
